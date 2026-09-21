@@ -43,11 +43,10 @@ Closing that gap is the work. I design and ship retrieval and agent systems wher
 
 ## Toolbox
 
-**Languages** Python · TypeScript · SQL  
+**Languages** Python · SQL  
 **AI** Anthropic Claude · OpenAI · Azure OpenAI · Amazon Bedrock · Ollama · RAG · agents & tool use · evaluation harnesses  
 **Backend** FastAPI · Pydantic · SQLAlchemy (async) · Alembic · PostgreSQL + pgvector · Neo4j  
 **Cloud & ops** AWS (Lambda, ECS, S3, Bedrock, API Gateway) · Azure · Docker · GitHub Actions · structured logging  
-**Frontend** React · Vite · Tailwind  
 
 ## A principle I keep coming back to
 
