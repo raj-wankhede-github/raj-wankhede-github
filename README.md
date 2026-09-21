@@ -12,9 +12,8 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="PostgreSQL + pgvector" src="https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS%20Bedrock%20%26%20Serverless-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20Serverless-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
