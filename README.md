@@ -34,8 +34,6 @@ Closing that gap is the work. I design and ship retrieval and agent systems wher
 
 **Measured, not vibed.** Golden-dataset evaluation with enforced thresholds for groundedness, citation correctness, abstention accuracy and hallucination rate — running in CI, allowed to fail the build.
 
-Currently building a German-language enterprise AI platform (KI-Plattform) at **[Beyondles](https://github.com/beyondles-ai)**.
-
 ## Selected work
 
 | Project | What it is |
