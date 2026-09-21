@@ -40,10 +40,7 @@ Closing that gap is the work. I design and ship retrieval and agent systems wher
 | --- | --- |
 | **[AI-Agent-Customer-Support-RAG](https://github.com/raj-wankhede-github/AI-Agent-Customer-Support-RAG)** | A support agent that answers only from an approved knowledge base, cites the exact evidence, and abstains or hands off to a human when the evidence is missing, weak or contradictory. FastAPI + pgvector hybrid RAG, React support console, multi-tenant, evaluated against a golden dataset in CI. |
 | **[agent-guardrail](https://github.com/raj-wankhede-github/agent-guardrail)** | A framework-agnostic safety layer between an agent and its tools: risk classification, human approval for irreversible calls, Bedrock Guardrails content/PII checks, cost tracking and a full audit log — in ~250 lines of FastAPI. |
-| **[decision-making-simulator](https://github.com/raj-wankhede-github/decision-making-simulator)** | Takes a decision, finds the uncertain variables, runs 10,000 simulations of how it could go, and shows where the futures cluster and how bad the tail really is. |
 | **[rag-assistant](https://github.com/raj-wankhede-github/rag-assistant)** | A fully local RAG assistant over your own PDFs, powered by Claude. |
-| **[RAG-Bedrock-OpenAI-AzureOpenAI](https://github.com/raj-wankhede-github/RAG-Bedrock-OpenAI-AzureOpenAI)** | A multi-tenant RAG API on AWS Lambda — Flask + Pinecone, PDF/TXT/CSV ingestion from S3, DynamoDB chat memory, and the provider (OpenAI, Azure OpenAI, Bedrock) chosen per request. |
-| **[image-generation-via-openai-azureopenai-bedrock](https://github.com/raj-wankhede-github/image-generation-via-openai-azureopenai-bedrock)** | One image-generation endpoint over DALL·E 3, Azure OpenAI and Bedrock Titan, with per-provider size/quality validation and S3 storage. |
 
 ## Toolbox
 
