@@ -47,7 +47,7 @@ Closing that gap is the work. I design and ship retrieval and agent systems wher
 **Languages** Python · SQL  
 **AI** Anthropic Claude · OpenAI · Azure OpenAI · Amazon Bedrock · Ollama · RAG · agents & tool use · evaluation harnesses  
 **Backend** FastAPI · Pydantic · SQLAlchemy (async) · Alembic · PostgreSQL + pgvector · Neo4j  
-**Cloud & ops** AWS (Lambda, ECS, S3, Bedrock, API Gateway) · Azure · Docker · GitHub Actions · structured logging  
+**Cloud & ops** AWS (Lambda, ECS, S3, Bedrock, API Gateway) · Docker · GitHub Actions · structured logging  
 
 ## A principle I keep coming back to
 
